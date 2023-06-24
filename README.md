@@ -2,4 +2,4 @@
 
 ## Development of CNN-based deep learning model that can perform 'Facial Landmark Detection' well.
 
-![Uploading KakaoTalk_Image_2023-06-24-09-10-01.png…]()
+![main][/uploads/KakaoTalk_Image_2023-06-24-09-10-01.png…]()
